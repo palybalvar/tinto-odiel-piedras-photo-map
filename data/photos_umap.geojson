@@ -1,0 +1,920 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0230791,
+          37.38441339972222
+        ]
+      },
+      "properties": {
+        "name": "20260921_111021.jpg",
+        "fecha": "2026-09-21 11:10:21",
+        "description": "URL de fotografía pendiente de alojamiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0230439,
+          37.3845517
+        ]
+      },
+      "properties": {
+        "name": "20260921_111707.jpg",
+        "fecha": "2026-09-21 11:17:07",
+        "description": "URL de fotografía pendiente de alojamiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.023042499722222,
+          37.384550599722225
+        ]
+      },
+      "properties": {
+        "name": "20260921_111847.jpg",
+        "fecha": "2026-09-21 11:18:47",
+        "description": "URL de fotografía pendiente de alojamiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.023256899722222,
+          37.3843784
+        ]
+      },
+      "properties": {
+        "name": "20260921_112222.jpg",
+        "fecha": "2026-09-21 11:22:22",
+        "description": "URL de fotografía pendiente de alojamiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0234749,
+          37.3848071
+        ]
+      },
+      "properties": {
+        "name": "20260921_112537.jpg",
+        "fecha": "2026-09-21 11:25:37",
+        "description": "URL de fotografía pendiente de alojamiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.023449399722222,
+          37.3849572
+        ]
+      },
+      "properties": {
+        "name": "20260921_112632.jpg",
+        "fecha": "2026-09-21 11:26:32",
+        "description": "URL de fotografía pendiente de alojamiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.021084499722222,
+          37.38193629972222
+        ]
+      },
+      "properties": {
+        "name": "20260921_114324.jpg",
+        "fecha": "2026-09-21 11:43:24",
+        "description": "URL de fotografía pendiente de alojamiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.022525899722222,
+          37.38267079972222
+        ]
+      },
+      "properties": {
+        "name": "20260921_122418.jpg",
+        "fecha": "2026-09-21 12:24:18",
+        "description": "URL de fotografía pendiente de alojamiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0224726,
+          37.3842069
+        ]
+      },
+      "properties": {
+        "name": "20260921_122915.jpg",
+        "fecha": "2026-09-21 12:29:15",
+        "description": "URL de fotografía pendiente de alojamiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0223193,
+          37.3854198
+        ]
+      },
+      "properties": {
+        "name": "20260921_123233.jpg",
+        "fecha": "2026-09-21 12:32:33",
+        "description": "URL de fotografía pendiente de alojamiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0222964,
+          37.3854416
+        ]
+      },
+      "properties": {
+        "name": "20260921_123246.jpg",
+        "fecha": "2026-09-21 12:32:46",
+        "description": "URL de fotografía pendiente de alojamiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0220491,
+          37.38545429972222
+        ]
+      },
+      "properties": {
+        "name": "20260921_123727.jpg",
+        "fecha": "2026-09-21 12:37:27",
+        "description": "URL de fotografía pendiente de alojamiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.020102399722222,
+          37.38546589972222
+        ]
+      },
+      "properties": {
+        "name": "20260921_125348.jpg",
+        "fecha": "2026-09-21 12:53:48",
+        "description": "URL de fotografía pendiente de alojamiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0200664,
+          37.385451699722225
+        ]
+      },
+      "properties": {
+        "name": "20260921_125356.jpg",
+        "fecha": "2026-09-21 12:53:56",
+        "description": "URL de fotografía pendiente de alojamiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.985389399722222,
+          37.461399999722225
+        ]
+      },
+      "properties": {
+        "name": "20260923_124904.jpg",
+        "fecha": "2026-09-23 12:49:04",
+        "description": "URL de fotografía pendiente de alojamiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.985455899722222,
+          37.46137999972222
+        ]
+      },
+      "properties": {
+        "name": "20260923_124925.jpg",
+        "fecha": "2026-09-23 12:49:25",
+        "description": "URL de fotografía pendiente de alojamiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9857803,
+          37.4612825
+        ]
+      },
+      "properties": {
+        "name": "20260923_125151.jpg",
+        "fecha": "2026-09-23 12:51:51",
+        "description": "URL de fotografía pendiente de alojamiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.018709799722222,
+          37.452100899722225
+        ]
+      },
+      "properties": {
+        "name": "20260923_135755.jpg",
+        "fecha": "2026-09-23 13:57:55",
+        "description": "URL de fotografía pendiente de alojamiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.020960299722222,
+          37.450136
+        ]
+      },
+      "properties": {
+        "name": "20260923_140048.jpg",
+        "fecha": "2026-09-23 14:00:48",
+        "description": "URL de fotografía pendiente de alojamiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.021242499722222,
+          37.4497792
+        ]
+      },
+      "properties": {
+        "name": "20260923_140511.jpg",
+        "fecha": "2026-09-23 14:05:10",
+        "description": "URL de fotografía pendiente de alojamiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.021243899722222,
+          37.4497763
+        ]
+      },
+      "properties": {
+        "name": "20260923_140518.jpg",
+        "fecha": "2026-09-23 14:05:18",
+        "description": "URL de fotografía pendiente de alojamiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0417842,
+          37.4242124
+        ]
+      },
+      "properties": {
+        "name": "20260923_141529.jpg",
+        "fecha": "2026-09-23 14:15:29",
+        "description": "URL de fotografía pendiente de alojamiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9640047,
+          37.224446899722224
+        ]
+      },
+      "properties": {
+        "name": "20260923_150211.jpg",
+        "fecha": "2026-09-23 15:02:11",
+        "description": "URL de fotografía pendiente de alojamiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.964395299722222,
+          37.2258921
+        ]
+      },
+      "properties": {
+        "name": "20260923_150222.jpg",
+        "fecha": "2026-09-23 15:02:22",
+        "description": "URL de fotografía pendiente de alojamiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.3240102,
+          37.2061356
+        ]
+      },
+      "properties": {
+        "name": "20260924_083325.jpg",
+        "fecha": "2026-09-24 08:33:25",
+        "description": "URL de fotografía pendiente de alojamiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.551584599722222,
+          37.7221592
+        ]
+      },
+      "properties": {
+        "name": "20260924_105115.jpg",
+        "fecha": "2026-09-24 10:51:15",
+        "description": "URL de fotografía pendiente de alojamiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.551593799722222,
+          37.7221642
+        ]
+      },
+      "properties": {
+        "name": "20260924_105314.jpg",
+        "fecha": "2026-09-24 10:53:13",
+        "description": "URL de fotografía pendiente de alojamiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5511749,
+          37.72212809972222
+        ]
+      },
+      "properties": {
+        "name": "20260924_105957.jpg",
+        "fecha": "2026-09-24 10:59:57",
+        "description": "URL de fotografía pendiente de alojamiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.551144899722222,
+          37.7221496
+        ]
+      },
+      "properties": {
+        "name": "20260924_110143.jpg",
+        "fecha": "2026-09-24 11:01:43",
+        "description": "URL de fotografía pendiente de alojamiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.551054399722222,
+          37.72212019972222
+        ]
+      },
+      "properties": {
+        "name": "20260924_110604.jpg",
+        "fecha": "2026-09-24 11:06:04",
+        "description": "URL de fotografía pendiente de alojamiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5510742,
+          37.722158899722224
+        ]
+      },
+      "properties": {
+        "name": "20260924_110812.jpg",
+        "fecha": "2026-09-24 11:08:12",
+        "description": "URL de fotografía pendiente de alojamiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5510742,
+          37.722158899722224
+        ]
+      },
+      "properties": {
+        "name": "20260924_110834.jpg",
+        "fecha": "2026-09-24 11:08:34",
+        "description": "URL de fotografía pendiente de alojamiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5510742,
+          37.722158899722224
+        ]
+      },
+      "properties": {
+        "name": "20260924_110839.jpg",
+        "fecha": "2026-09-24 11:08:39",
+        "description": "URL de fotografía pendiente de alojamiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.551092299722222,
+          37.7220014
+        ]
+      },
+      "properties": {
+        "name": "20260924_111050.jpg",
+        "fecha": "2026-09-24 11:10:50",
+        "description": "URL de fotografía pendiente de alojamiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5510909,
+          37.72196209972222
+        ]
+      },
+      "properties": {
+        "name": "20260924_111218.jpg",
+        "fecha": "2026-09-24 11:12:18",
+        "description": "URL de fotografía pendiente de alojamiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5511143,
+          37.7219586
+        ]
+      },
+      "properties": {
+        "name": "20260924_111916.jpg",
+        "fecha": "2026-09-24 11:19:16",
+        "description": "URL de fotografía pendiente de alojamiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.551118999722222,
+          37.72198589972222
+        ]
+      },
+      "properties": {
+        "name": "20260924_112423.jpg",
+        "fecha": "2026-09-24 11:24:23",
+        "description": "URL de fotografía pendiente de alojamiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.551118999722222,
+          37.7219867
+        ]
+      },
+      "properties": {
+        "name": "20260924_112428.jpg",
+        "fecha": "2026-09-24 11:24:28",
+        "description": "URL de fotografía pendiente de alojamiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5512813,
+          37.72162349972222
+        ]
+      },
+      "properties": {
+        "name": "20260924_113253.jpg",
+        "fecha": "2026-09-24 11:32:53",
+        "description": "URL de fotografía pendiente de alojamiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5930764,
+          37.703298699722225
+        ]
+      },
+      "properties": {
+        "name": "20260924_114937.jpg",
+        "fecha": "2026-09-24 11:49:37",
+        "description": "URL de fotografía pendiente de alojamiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.593079099722222,
+          37.708140399722225
+        ]
+      },
+      "properties": {
+        "name": "20260924_115305.jpg",
+        "fecha": "2026-09-24 11:53:05",
+        "description": "URL de fotografía pendiente de alojamiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5930688,
+          37.708113599722225
+        ]
+      },
+      "properties": {
+        "name": "20260924_115332.jpg",
+        "fecha": "2026-09-24 11:53:32",
+        "description": "URL de fotografía pendiente de alojamiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.674812499722222,
+          37.7778532
+        ]
+      },
+      "properties": {
+        "name": "20260924_124006.jpg",
+        "fecha": "2026-09-24 12:40:06",
+        "description": "URL de fotografía pendiente de alojamiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.674812499722222,
+          37.7778532
+        ]
+      },
+      "properties": {
+        "name": "20260924_124019.jpg",
+        "fecha": "2026-09-24 12:40:19",
+        "description": "URL de fotografía pendiente de alojamiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.6743784,
+          37.777807
+        ]
+      },
+      "properties": {
+        "name": "20260924_125946.jpg",
+        "fecha": "2026-09-24 12:59:46",
+        "description": "URL de fotografía pendiente de alojamiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.673638699722222,
+          37.777655199722226
+        ]
+      },
+      "properties": {
+        "name": "20260924_130456.jpg",
+        "fecha": "2026-09-24 13:04:56",
+        "description": "URL de fotografía pendiente de alojamiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.6736418,
+          37.777799799722224
+        ]
+      },
+      "properties": {
+        "name": "20260924_130606.jpg",
+        "fecha": "2026-09-24 13:06:06",
+        "description": "URL de fotografía pendiente de alojamiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7141954,
+          37.7286456
+        ]
+      },
+      "properties": {
+        "name": "20260924_135257.jpg",
+        "fecha": "2026-09-24 13:52:57",
+        "description": "URL de fotografía pendiente de alojamiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9401295,
+          37.3102054
+        ]
+      },
+      "properties": {
+        "name": "20260925_090551.jpg",
+        "fecha": "2026-09-25 09:05:51",
+        "description": "URL de fotografía pendiente de alojamiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9396934,
+          37.30736639972222
+        ]
+      },
+      "properties": {
+        "name": "20260925_090602.jpg",
+        "fecha": "2026-09-25 09:06:02",
+        "description": "URL de fotografía pendiente de alojamiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9255939,
+          37.2710008
+        ]
+      },
+      "properties": {
+        "name": "20260925_091747.jpg",
+        "fecha": "2026-09-25 09:17:47",
+        "description": "URL de fotografía pendiente de alojamiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.925715199722222,
+          37.271048399722225
+        ]
+      },
+      "properties": {
+        "name": "20260925_114125.jpg",
+        "fecha": "2026-09-25 11:41:25",
+        "description": "URL de fotografía pendiente de alojamiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9258068999999995,
+          37.2708425
+        ]
+      },
+      "properties": {
+        "name": "20260925_131259.jpg",
+        "fecha": "2026-09-25 13:12:59",
+        "description": "URL de fotografía pendiente de alojamiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9256827,
+          37.2709897
+        ]
+      },
+      "properties": {
+        "name": "20260925_131723.jpg",
+        "fecha": "2026-09-25 13:17:23",
+        "description": "URL de fotografía pendiente de alojamiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.925683199722222,
+          37.2709878
+        ]
+      },
+      "properties": {
+        "name": "20260925_141707.jpg",
+        "fecha": "2026-09-25 14:17:07",
+        "description": "URL de fotografía pendiente de alojamiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9256981,
+          37.27097859972222
+        ]
+      },
+      "properties": {
+        "name": "20260925_141921.jpg",
+        "fecha": "2026-09-25 14:19:21",
+        "description": "URL de fotografía pendiente de alojamiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9256981,
+          37.27097859972222
+        ]
+      },
+      "properties": {
+        "name": "20260925_141932.jpg",
+        "fecha": "2026-09-25 14:19:32",
+        "description": "URL de fotografía pendiente de alojamiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.928694799722222,
+          37.210350499722225
+        ]
+      },
+      "properties": {
+        "name": "20260925_165231.jpg",
+        "fecha": "2026-09-25 16:52:31",
+        "description": "URL de fotografía pendiente de alojamiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9297411,
+          37.2109553
+        ]
+      },
+      "properties": {
+        "name": "20260925_165630.jpg",
+        "fecha": "2026-09-25 16:56:30",
+        "description": "URL de fotografía pendiente de alojamiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.927857099722222,
+          37.2107351
+        ]
+      },
+      "properties": {
+        "name": "20260925_171836.jpg",
+        "fecha": "2026-09-25 17:18:35",
+        "description": "URL de fotografía pendiente de alojamiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.927857099722222,
+          37.2107351
+        ]
+      },
+      "properties": {
+        "name": "20260925_171851.jpg",
+        "fecha": "2026-09-25 17:18:51",
+        "description": "URL de fotografía pendiente de alojamiento"
+      }
+    }
+  ]
+}
